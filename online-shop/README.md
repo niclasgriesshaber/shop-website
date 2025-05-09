@@ -1,36 +1,4 @@
-# E-Bike Shop MVP
-
-This is a Next.js 14 project for an E-Bike shop MVP.
-
-## 🏃‍♂️ Quick start
-
-To get started, run the following commands:
-
-```bash
-npm install && npm run dev
-```
-
-## Tech Stack
-
-* Next.js 14 (App Router)
-* TypeScript
-* TailwindCSS
-* shadcn/ui
-* ESLint (Airbnb config)
-* Prettier
-* Husky (pre-commit hooks)
-
-## Environment Variables
-
-Create a `.env.local` file in the root of the project and add the following environment variables:
-
-```
-SUPABASE_URL=your_supabase_url
-SUPABASE_ANON_KEY=your_supabase_anon_key
-NEXTAUTH_URL=http://localhost:3000
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-```
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
